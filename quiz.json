@@ -1,0 +1,95 @@
+{
+  "title": "9 Questions To Know Where You Are In Life",
+  "questions": [
+    {
+      "topic": "Beauty",
+	  "image": "Beauty.jpg",
+      "question": "Do you feel you’re beautiful on the inside and out?",
+	  "weight": [3, 2, 1, 4, 5]
+    },
+    {
+      "topic": "Feelings",
+	  "image": "Happy.jpg",
+      "question": "Do you feel happy right now about the way your life is going?",
+	  "weight": [5, 3, 2, 2, 3]
+    },
+    {
+      "topic": "Dreams",
+	  "image": "Dreams.jpg",
+      "question": "Do you see yourself achieving your dreams for your future?",
+	  "weight": [5, 1, 3, 1, 3]
+    },
+    {
+      "topic": "Day to Day",
+	  "image": "Daytoday.jpg",
+      "question": "Do you feel free to go about your day as you please?",
+	  "weight": [4, 4, 5, 4, 4]
+    },
+    {
+      "topic": "Love",
+	  "image": "LoveSmall.jpg",
+      "question": "Does the love in your life expect nothing in return?",
+	  "weight": [1, 5, 5, 3, 4]
+    },
+    {
+      "topic": "Sex",
+	  "image": "Sex.jpg",
+      "question": "Is it your choice?",
+	  "weight": [2, 3, 1, 5, 1]
+    },
+    {
+      "topic": "Health",
+	  "image": "Health.jpg",
+      "question": "Can you get medical help when in need?",
+	  "weight": [1, 1, 3, 5, 1]
+    },
+    {
+      "topic": "Choices",
+	  "image": "Choices.jpg",
+      "question": "Do you feel in control of your own choices in life?",
+	  "weight": [4, 5, 4, 3, 2]
+    },{
+      "topic": "Relationships",
+	  "image": "Relationships.jpg",
+      "question": "Do you have a trusted female friend you can share your deepest darkest secrets with?",
+	  "weight": [3, 4, 4, 1, 5]
+    }
+  ],
+  "outcomes": [
+	{
+      "image": "rapunzel.jpg",
+      "title": "You Are Like Rapunzel!",
+      "description": "Just like Rapunzel you are adventurous and love trying new things! You see the best in people and trust easily, but sometimes that can be your downfall. Even though you have people you trust, they may not have your best interest in mind. Unlike Rapunzel, you may not need a prince charming to take you out of your situation- just a better support system. With the help of a friend she was able to leave her situation and discover her strength, value and true identity. If you need a friend we are here to help.",
+      "verse": "“Perfect love drives out fear” 1 John 4:18"
+    },
+    {
+      "image": "ariel.jpg",
+      "title": "You Are Like Ariel!",
+      "description": "Ariel is headstrong, determined and independent! Just like Ariel you see beauty in the small things and crave more in life. You want to discover the world outside but may be confined to the boundaries set by somebody else. Ariel was trusting those around her, but knew that.<br>She achieved her dreams and discovered a new life with safety and happiness. You are stronger than you believe and can be supported by others. Contact a life coach.",
+      "verse":"“I can do all things through Christ who strengthens me” Phil 4:13"
+    },
+    {
+      "image": "belle.jpg",
+      "title": "You Are Like Belle!",
+      "description": "Just like Belle you are smart and curious! You long for more than what life has to offer right now, and you’re seeking out new opportunities. You desire to be loved and cared for, but you may be loving someone who may not treat you with the respect you deserve. Like Belle, you want to see the best in people, and you care for people deeply. You want to love and fix the hurt people around you, but sometimes it means that you get hurt in the process. <br>For Belle, she was willing to sacrifice her way of life for something better, will you? Contact a life coach.",
+      "verse": "“ Do not forsake wisdom, and she will protect you; love her, and she will watch over you. The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.” Proverbs 4:6-7"
+    },
+    {
+      "image": "princess.jpg",
+      "title": "You are like Cinderella!",
+      "description": "Cinderella is hardworking, kind and loving. You have experienced some misfortunes in life, but are willing to work hard to make your future better. Like Cinderella, you may be doing things to please others and to make them happy, even sacrificing your own happiness and choices in life to do so. Cinderella lived humbly, without being loved and supported by those closest to her. However, she always tried to remain optimistic. Like Cinderella you desire true romance, but know that in order to receive it, you may need to leave the situation you are currently in. Someone gave Cinderella an opportunity to discover new possibilities beyond her imagination. We can help you do the same.",
+      "verse": "“God is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us” Eph 3:20"
+    },
+    {
+      "image": "meg.jpg",
+      "title": "You are like Mulan!",
+      "description": "Mulan is clever and resilient. Just like Mulan, you have a strong devotion to your family, and will go to great lengths to protect and provide for them. At times, you may feel like you have no other options, or that there is no one you feel you can be authentic with. There were people who truly cared for Mulan and were willing to help and guide her. Like Mulan, you’re resilient enough to endure the most difficult circumstances in order to get to a better place. Trusting in someone can help alleviate that burden. Contact us if you need someone to talk to.",
+      "verse": "“Where does my help come from? My help comes from God” Psalm 121:1-2"
+    }
+  ],
+  "resourseList": [
+    {
+      "email": "4beautifulfreedom@gmail.com"
+    }
+  ]
+}
