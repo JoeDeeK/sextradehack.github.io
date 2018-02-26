@@ -21,7 +21,7 @@ function loadPageData(data){
 	);
 	
 	$("#startQuiz").click( function(){
-		$("#image").html("<p><img src='_images/" + data.questions[num].image + "'></p>");
+		$("#image").html("<p><img src='images/" + data.questions[num].image + "'></p>");
 		$("#topic").html(data.questions[num].topic);
 		$("#question").html(data.questions[num].question);
 		
@@ -37,7 +37,7 @@ function loadPageData(data){
 				var index = score.indexOf(Math.max(...score));
 				//score = score_highestValuedIndex (ensure outcome in proper order in json)
 				
-				$("#image").html("<img src='_images/" + data.outcomes[index].image + "'>");
+				$("#image").html("<img src='images/" + data.outcomes[index].image + "'>");
 				$("#question").html(data.outcomes[index].title);
 				$("#buttons").html("<p>" + data.outcomes[index].description + "</p>");
 				$("#verse").html(data.outcomes[index].verse);
@@ -50,7 +50,7 @@ function loadPageData(data){
 					}					
 				}
 				
-				$("#image").html("<p><img src='_images/" + data.questions[num].image + "'></p>");
+				$("#image").html("<p><img src='images/" + data.questions[num].image + "'></p>");
 				$("#topic").html(data.questions[num].topic);
 				$("#question").html(data.questions[num].question);
 			}
